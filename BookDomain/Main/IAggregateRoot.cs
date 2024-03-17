@@ -1,4 +1,4 @@
-﻿namespace BookDomain;
+﻿namespace BookDomain.Main;
 
 public interface IAggregateRoot
 {
